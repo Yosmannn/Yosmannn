@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Yosmannn
-- 👀 I’m interested in stay on monitor
-- 🌱 I’m currently learning ...RPA
-- 💞️ I’m looking to collaborate on UiPath and GitHub
-- 📫 How to reach me ?? u can get me on IG: _yosman or mail:yosnam191@gmail.com 
+# Hi, I'm Yosmannn 👋
 
-<!---
-Yosmannn/Yosmannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### About Me
+I'm passionate about **monitoring** and always eager to learn new tools and techniques to stay on top of system performance and health.
+
+---
+
+### What I'm Interested In
+- Staying on **monitoring** — keeping an eye on systems, apps, and infrastructure.
+- Exploring and mastering monitoring tools like **New Relic**.
+
+---
+
+### What I'm Currently Learning
+- Monitoring and observability tools, with a focus on **New Relic**.
+
+---
+
+### How to Reach Me
+- Instagram: [_yosman](https://www.instagram.com/_yosman)  
+  ![Instagram Follow](https://img.shields.io/badge/Instagram-Follow%20Me-%23E4)
