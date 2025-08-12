@@ -23,7 +23,7 @@ I'm passionate about **monitoring** 🖥️ and always eager to learn new tools 
 - Instagram: [_yosman](https://www.instagram.com/_yosman)  
   ![Instagram Follow](https://img.shields.io/badge/Instagram-Follow%20Me-%23E4405F?style=flat&logo=instagram&logoColor=white)
 
-- Email: [yosua.manik@gmail.com](mailto:yosua.manik@gmail.com) ✉️
+- Email: [yosua.manik@berca.co.id](mailto:yosua.manik@berca.co.id) ✉️
 
 ---
 
